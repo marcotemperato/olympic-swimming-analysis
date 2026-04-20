@@ -39,6 +39,9 @@ https://public.tableau.com/views/analisinuoto1912-2020/Storia1?:language=it-IT&:
 - 2028: 45.93 secondi  
 - 2032: 45.66 secondi  
 
+## 🔮 Predizione
+
+![Prediction](images/predizione.png)
 ---
 
 ## 📊 Insight Principali
