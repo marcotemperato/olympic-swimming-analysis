@@ -20,6 +20,9 @@ Questo progetto analizza l’evoluzione delle performance nel nuoto olimpico dal
 🔗 Visualizza la dashboard su Tableau:  
 https://public.tableau.com/views/analisinuoto1912-2020/Storia1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## 📊 Anteprima Dashboard
+
+![Dashboard](images/Screenshot dashboard.png)
 ---
 
 ## 🔮 Modello Predittivo
