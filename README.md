@@ -1,6 +1,17 @@
 # olympic-swimming-analysis
 # 🏊 Analisi delle Performance nel Nuoto Olimpico
 
+## 📌 In breve
+Analisi delle performance olimpiche nel nuoto (1912–2020) con:
+- Dashboard interattiva (Tableau)
+- Analisi di trend e nazioni
+- Modello predittivo fino al 2032
+
+## 📊 Anteprima Dashboard
+
+![Dashboard](images/dashboard_preview.png)
+
+
 ## 📊 Panoramica
 Questo progetto analizza l’evoluzione delle performance nel nuoto olimpico dal 1912 al 2020, con focus su trend temporali, differenze di genere e dominanza delle nazioni.
 
